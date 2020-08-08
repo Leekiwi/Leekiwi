@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" style="border-radius:50%" src="https://github.com/Leekiwi/Leekiwi/raw/master/timg.gif" width="300">
+<img align="right" src="https://github.com/Leekiwi/Leekiwi/raw/master/timg.gif" width="200">
 
 - 👨‍💻 **Working:** Web Development, a Vue.js nerd.
 - 🌱 **Learning:** Full-Stack | Open-Source 🔥
